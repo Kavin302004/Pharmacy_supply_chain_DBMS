@@ -1,5 +1,5 @@
 #    Pharmacy supply chain Management system  
-# SQL plus + JAVA NETBEANS 
+# SQL plus + JAVA NETBEANS  
 
 ![Modified_Schema drawio_page-0001](https://github.com/Kavin302004/Pharmacy_supply_chain_DBMS/assets/140266232/8c257d16-018a-4d7f-8ac9-9c8b33b98a38)
 
